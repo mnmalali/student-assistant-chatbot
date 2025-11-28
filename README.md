@@ -23,17 +23,6 @@ Gradio web interface
 
 Fully grounded, no hallucinations
 
-📂 Project Structure
-student-assistant-chatbot/
-│
-├── ingest_database.py
-├── chatbot.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-│
-├── data/                    # Study plan PDFs
-
 
 🧠 How It Works
 
