@@ -35,6 +35,7 @@ student-assistant-chatbot/
 ├── data/                    # Study plan PDFs (not included for size)
 └── screenshots/             # Optional images
 
+
 🧠 How It Works
 
 Data ingestion
@@ -77,11 +78,6 @@ Gradio
 
 PDF loading + regex-based chunking
 
-📸 Demo
-
-(Add a screenshot here)
-
-📌 Future Improvements
 
 Add more universities
 
