@@ -32,8 +32,7 @@ student-assistant-chatbot/
 ├── README.md
 ├── .gitignore
 │
-├── data/                    # Study plan PDFs (not included for size)
-└── screenshots/             # Optional images
+├── data/                    # Study plan PDFs
 
 
 🧠 How It Works
